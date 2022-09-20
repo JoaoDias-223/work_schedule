@@ -11,6 +11,5 @@ def main():
     scheduler.export_worker_schedule()
 
 
-
 if __name__ == "__main__":
     main()
